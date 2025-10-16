@@ -16,3 +16,5 @@ if st.button("Sorgula") and sehir:
         st.write("Nem:", veri["main"]["humidity"])
     else:
         st.error("Şehir bulunamadı veya API anahtarı hatalı.")
+
+        
